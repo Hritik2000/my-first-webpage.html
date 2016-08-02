@@ -1,5 +1,5 @@
 h1 {
-  color: #00f;
+  color: red;
   text-align: center;
 }
 
@@ -15,4 +15,22 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+h3 {
+  text-align: center;
+  font-family: helvetica;
+  font-size: 25px;
+  line-height: 5;
+}
+
+body {
+  background-color: #ffddbb;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin: auto;
 }
