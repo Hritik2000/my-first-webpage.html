@@ -49,3 +49,12 @@ img {
   color: #66ff33;
 
 }
+
+.revertbutton {
+  text-align: center;
+  margin: 24px;
+}
+
+#revertbutton{
+  display: none;
+}
