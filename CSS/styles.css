@@ -38,3 +38,14 @@ img {
 .bad {
   font-style: italic;
 }
+
+.contrastbutton {
+  text-align: center;
+  margin: 24px;
+}
+
+.high-contrast {
+  background-color: black;
+  color: #66ff33;
+
+}
